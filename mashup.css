@@ -1,0 +1,15 @@
+html, body, #map-canvas {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#favourites{
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  right: 0;
+  padding: 2em;
+  background: rgba(255,255,255, 0.5);
+  text-align: right;
+}
